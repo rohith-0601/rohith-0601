@@ -69,7 +69,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohith-perugu-8309673001/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohith-perugu/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a> &nbsp;
   <a href="https://github.com/rohith-0601" target="_blank">
@@ -81,7 +81,7 @@
   <a href="https://www.codechef.com/users/rohith0601" target="_blank">
     <img src="https://assets.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="30" height="30"/>
   </a> &nbsp;
-  <a href="https://leetcode.com/rohith0601" target="_blank">
+  <a href="https://leetcode.com/u/rohith_0601/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
