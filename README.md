@@ -41,6 +41,12 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![API Authentication](https://img.shields.io/badge/API%20Auth-OAuth2%20%7C%20JWT-7B1FA2?style=for-the-badge&logo=auth0&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 ---
@@ -64,8 +70,16 @@
 ## 📫 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rohith-perugu-8309673001/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a> &nbsp;
-<a href="https://github.com/rohith-0601" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/></a> &nbsp;
-<a href="mailto:rohithperugu@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/></a> &nbsp;
-<a href="https://www.codechef.com/users/rohith0601" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/rohith-perugu-8309673001/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://github.com/rohith-0601" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a> &nbsp;
+  <a href="mailto:rohithperugu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> &nbsp;
+  <a href="https://www.codechef.com/users/rohith0601" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 </p>
