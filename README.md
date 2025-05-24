@@ -66,7 +66,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0601&theme=dark&layout=compact)
 
 ---
-
 ## 📫 Connect with me
 
 <p align="center">
@@ -80,8 +79,12 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="30" height="30"/>
   </a> &nbsp;
   <a href="https://www.codechef.com/users/rohith0601" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/CodeChef_Logo.svg" alt="CodeChef" width="30" height="30"/>
+    <img src="https://assets.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="30" height="30"/>
+  </a> &nbsp;
+  <a href="https://leetcode.com/rohith0601" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
+
 
 
