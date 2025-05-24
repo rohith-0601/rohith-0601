@@ -71,16 +71,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohith-perugu-8309673001/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0A66C2;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a> &nbsp;
   <a href="https://github.com/rohith-0601" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="fill:#181717;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30"/>
   </a> &nbsp;
   <a href="mailto:rohithperugu@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" style="fill:#EA4335;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="30" height="30"/>
   </a> &nbsp;
   <a href="https://www.codechef.com/users/rohith0601" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" width="30" height="30" style="fill:#5B4638;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/CodeChef_Logo.svg" alt="CodeChef" width="30" height="30"/>
   </a>
 </p>
+
 
