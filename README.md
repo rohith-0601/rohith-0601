@@ -1,15 +1,12 @@
-[![An image of @rohith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohith0601)](https://holopin.io/@rohith0601)
-[![](https://visitcount.itsvg.in/api?id=rohith-0601&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Rohith Perugu</h1>
 
 <h3 align="center">A passionate 1st-year Engineering Science student at IIT Hyderabad. Aspiring full-stack web developer and AI enthusiast.</h3>
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Python**, **Frontend Web Development (HTML, CSS, JS)**, and **DSA**  
-- 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI-based outfit suggestion** and **chat applications**  
-- 💬 Ask me about **Web Development, Data Structures, Python, and Project Ideas**  
+- 🌱 Currently learning **AIML ALGORITHMS**, **Frontend Web Development (HTML, CSS, JS)**, and **DSA**  
+- 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI PROJECTS**  
+- 💬 Ask me about **Web Development, Data Structures And Algorithms, Python, and Project Ideas**  
 - 📫 Reach me at: **rohithperugu@gmail.com**  
 - ⚡ Fun fact: I enjoy working as a buddy and volunteer at IIT Hyderabad's Sunshine initiative, helping peers and organizing fun events
 
@@ -18,17 +15,33 @@
 ## 📚 Education
 
 - **B.Tech Engineering Science**, IIT Hyderabad (2024 - Present)  
-- Collaborating with teammates like **M. Komal Sathvik** on coding and web projects  
+
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8F4E1C?style=for-the-badge&logo=ejs&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-FF6F00?style=for-the-badge&logo=gmail&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![API Authentication](https://img.shields.io/badge/API%20Auth-OAuth2%20%7C%20JWT-7B1FA2?style=for-the-badge&logo=auth0&logoColor=white)
+
 
 ---
 
