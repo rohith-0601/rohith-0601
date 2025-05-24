@@ -82,7 +82,7 @@
     <img src="https://assets.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="30" height="30"/>
   </a> &nbsp;
   <a href="https://leetcode.com/rohith0601" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/LeetCode_Logo_orange.svg" alt="LeetCode" width="30" height="30"/>
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
 
