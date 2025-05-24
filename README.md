@@ -75,9 +75,10 @@
   <a href="https://github.com/rohith-0601" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30"/>
   </a> &nbsp;
-  <a href="mailto:rohithperugu@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="30" height="30"/>
-  </a> &nbsp;
+  <a href="mailto:rohithperugu@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="30" height="30" />
+</a>&nbsp;
+
   <a href="https://www.codechef.com/users/rohith0601" target="_blank">
     <img src="https://assets.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="30" height="30"/>
   </a> &nbsp;
