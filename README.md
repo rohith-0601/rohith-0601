@@ -60,7 +60,7 @@
 
 - 👨‍💻 [Email Sender Automation](https://github.com/rohith-0601/email-sender-project) — Automated personalized emails using Python and Excel
 - 👨‍💻 [LinkedIn Job Application Automation](https://github.com/rohith-0601/job-application-automation) — Selenium bot for easy job applications
-- 👨‍💻 [Intel Product Page](https://github.com/rohith-0601/intel-product-page) — Dedicated Intel product page with Google AI chatbot integration (Intel hackathon project)
+- 👨‍💻 [Intel Product Page](https://github.com/komalsathvik/intel-hackathon.git) — Dedicated Intel product page with Google AI chatbot integration (Intel hackathon project)
 - 👨‍💻 [We-Meet](https://github.com/rohith-0601/We-Meet) — Full-stack MERN chat app with WebSocket, file sharing, and group chat support
 - 👨‍💻 [WanderLust (Airbnb Clone)](https://github.com/rohith-0601/WanderLust) — Airbnb-style platform for property rentals, bookings, and reviews
 
