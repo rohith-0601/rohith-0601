@@ -4,18 +4,17 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AIML ALGORITHMS**, **Frontend Web Development (HTML, CSS, JS)**, and **DSA**  
-- 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI PROJECTS**  
-- 💬 Ask me about **Web Development, Data Structures And Algorithms, Python, and Project Ideas**  
-- 📫 Reach me at: **rohithperugu@gmail.com**  
+- 🌱 Currently learning **AIML ALGORITHMS**, **Frontend Web Development (HTML, CSS, JS)**, and **DSA**
+- 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI PROJECTS**
+- 💬 Ask me about **Web Development, Data Structures And Algorithms, Python, and Project Ideas**
+- 📫 Reach me at: **rohithperugu@gmail.com**
 - ⚡ Fun fact: I enjoy working as a buddy and volunteer at IIT Hyderabad's Sunshine initiative, helping peers and organizing fun events
 
 ---
 
 ## 📚 Education
 
-- **B.Tech Engineering Science**, IIT Hyderabad (2024 - Present)  
-
+- **B.Tech Engineering Science**, IIT Hyderabad (2024 - Present)
 
 ---
 
@@ -26,6 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,17 +46,20 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-323330?style=for-the-badge&logo=npm&logoColor=white)
+![P2P](https://img.shields.io/badge/Peer--to--Peer-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
 
 
 ---
 
 ## 🔭 Projects & Highlights
 
-- 👨‍💻 [Email Sender Automation](https://github.com/rohith-0601/email-sender-project) — Automated personalized emails using Python and Excel  
-- 👨‍💻 [LinkedIn Job Application Automation](https://github.com/rohith-0601/job-application-automation) — Selenium bot for easy job applications  
-- 👗 AI-based Outfit Suggester — Upload clothing images and get color-compatible outfit recommendations  
-- 💬 Full-featured MERN Chat Application — Real-time messaging with user auth, avatars, notifications, and more  
+- 👨‍💻 [Email Sender Automation](https://github.com/rohith-0601/email-sender-project) — Automated personalized emails using Python and Excel
+- 👨‍💻 [LinkedIn Job Application Automation](https://github.com/rohith-0601/job-application-automation) — Selenium bot for easy job applications
 
 ---
 
@@ -64,8 +67,12 @@
 
 ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&theme=dark&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0601&theme=dark&layout=compact)
+![Intel Product Page](https://github.com/rohith-0601/intel-product-page) — Dedicated Intel product page with Google AI chatbot integration (Intel hackathon project)
+![We-Meet](https://github.com/rohith-0601/We-Meet) — Full-stack MERN chat app with WebSocket, file sharing, and group chat support
+![WanderLust (Airbnb Clone)](https://github.com/rohith-0601/WanderLust) — Airbnb-style platform for property rentals, bookings, and reviews
 
 ---
+
 ## 📫 Connect with me
 
 <p align="center">
@@ -86,7 +93,3 @@
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
-
-
-
-
