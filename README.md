@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Perugu</h1>
 
-<h3 align="center">A passionate 1st-year Engineering Science student at IIT Hyderabad. Aspiring full-stack web developer and AI enthusiast.</h3>
+<h3 align="center">A passionate 2nd-year Engineering Science student at IIT Hyderabad. Aspiring full-stack web developer and AI enthusiast.</h3>
 
 ## 🚀 About Me
 
