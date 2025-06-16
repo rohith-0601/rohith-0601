@@ -60,6 +60,9 @@
 
 - 👨‍💻 [Email Sender Automation](https://github.com/rohith-0601/email-sender-project) — Automated personalized emails using Python and Excel
 - 👨‍💻 [LinkedIn Job Application Automation](https://github.com/rohith-0601/job-application-automation) — Selenium bot for easy job applications
+- 👨‍💻 [Intel Product Page](https://github.com/rohith-0601/intel-product-page) — Dedicated Intel product page with Google AI chatbot integration (Intel hackathon project)
+- 👨‍💻 [We-Meet](https://github.com/rohith-0601/We-Meet) — Full-stack MERN chat app with WebSocket, file sharing, and group chat support
+- 👨‍💻 [WanderLust (Airbnb Clone)](https://github.com/rohith-0601/WanderLust) — Airbnb-style platform for property rentals, bookings, and reviews
 
 ---
 
@@ -67,9 +70,7 @@
 
 ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&theme=dark&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0601&theme=dark&layout=compact)
-![Intel Product Page](https://github.com/rohith-0601/intel-product-page) — Dedicated Intel product page with Google AI chatbot integration (Intel hackathon project)
-![We-Meet](https://github.com/rohith-0601/We-Meet) — Full-stack MERN chat app with WebSocket, file sharing, and group chat support
-![WanderLust (Airbnb Clone)](https://github.com/rohith-0601/WanderLust) — Airbnb-style platform for property rentals, bookings, and reviews
+
 
 ---
 
