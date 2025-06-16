@@ -8,7 +8,7 @@
 - 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI PROJECTS**
 - 💬 Ask me about **Web Development, Data Structures And Algorithms, Python, and Project Ideas**
 - 📫 Reach me at: **rohithperugu@gmail.com**
-- ⚡ Fun fact: I enjoy working as a buddy and volunteer at IIT Hyderabad's Sunshine initiative, helping peers and organizing fun events
+- ⚡ Fun fact:I’m the **Buddy Head at Sunshine** (IIT Hyderabad’s peer support initiative), **Milan Web Coordinator**, and **Elan & ηVision Event Coordinator** — I love supporting peers, building engaging web platforms, and organizing impactful events that bring people together!
 
 ---
 
