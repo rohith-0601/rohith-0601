@@ -66,7 +66,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+![GitHub Streak](https://streak-stats.demolab.com?user=rohith-0601&theme=dark&hide_border=false)
 ![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&theme=dark&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0601&theme=dark&layout=compact)
 
