@@ -57,7 +57,7 @@
 
 ## 🔭 Projects & Highlights
 
-- 👨‍💻 [Connect]((https://github.com/rohith-0601/Connect)) — A Full-stack Basic Social media App , to share activities
+- 👨‍💻 [Connect](https://github.com/rohith-0601/Connect) — A Full-stack Basic Social media App , to share activities
 - 👨‍💻 [We-Meet](https://github.com/rohith-0601/We-Meet) — Full-stack MERN chat app with WebSocket, file sharing, and group chat support
 - 👨‍💻 [WanderLust (Airbnb Clone)](https://github.com/rohith-0601/WanderLust) — Airbnb-style platform for property rentals, bookings, and reviews
 - 👨‍💻 [Intel Product Page](https://github.com/komalsathvik/intel-hackathon.git) — Dedicated Intel product page with Google AI chatbot integration (Intel hackathon project)
