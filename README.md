@@ -7,7 +7,7 @@
 - 🌱 Currently learning **AIML ALGORITHMS**, **Frontend Web Development (HTML, CSS, JS)**, and **DSA**
 - 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI PROJECTS**
 - 💬 Ask me about **Web Development, Data Structures And Algorithms, Python, and Project Ideas**.
-- 📫 Reach me at: **rohithperugu@gmail.com**
+- 📫 Reach me at: **rohithperugu@gmail.com**.
 - ⚡ Fun fact:I’m the **Buddy Head at Sunshine** (IIT Hyderabad’s peer support initiative),**PRAYAS IITH web Head**, **Milan Web Coordinator**, and **Elan & ηVision Event Coordinator** — I love supporting peers, building engaging web platforms, and organizing impactful events that bring people together!
 
 ---
