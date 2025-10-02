@@ -72,7 +72,7 @@
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.vercel.app/?user=rohith-0601&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&theme=dark&show_icons=true)  
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&theme=dark&show_icons=true&cache_seconds=0)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0601&theme=dark&layout=compact)
 
 
