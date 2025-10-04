@@ -5,7 +5,6 @@
 ## 🚀 About Me
 
 
-- 🍂 Full Stack Intern at **Obrive Industries PVT Limited**
 - 🌱 Currently learning **AIML ALGORITHMS**, **Frontend Web Development (HTML, CSS, JS)**, and **DSA**
 - 👨‍💻 Working on projects using **Python**, **MERN stack**, and exploring **AI PROJECTS**
 - 💬 Ask me about **Web Development, Data Structures And Algorithms, Python, and Project Ideas**.
