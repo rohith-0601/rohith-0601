@@ -76,6 +76,16 @@
 
 ---
 
+<h2 align="center">✨ Holopin Badge Board ✨</h2>
+<p align="center">
+  <a href="https://holopin.io/@rohith0601">
+    <img src="https://holopin.me/rohith0601" alt="@rohith0601's Holopin badges" />
+  </a>
+</p>
+
+---
+
+
 ## 📫 Connect with me
 
 <p align="center">
