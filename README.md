@@ -72,16 +72,12 @@
 [![GitHub Streak](https://streak-stats.vercel.app/?user=rohith-0601&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&theme=dark&show_icons=true&cache_seconds=0&v=2) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0601&theme=dark&layout=compact)
-
-
----
-
-<h2 align="center">✨ Holopin Badge Board ✨</h2>
-<p align="center">
-  <a href="https://holopin.io/@rohith0601">
-    <img src="https://holopin.me/rohith0601" alt="@rohith0601's Holopin badges" />
-  </a>
-</p>
+<!-- <h2 align="center">✨ Holopin Badge Board ✨</h2> -->
+<!-- <p align="center"> -->
+  <!-- <a href="https://holopin.io/@rohith0601"> -->
+    <!-- <img src="https://holopin.me/rohith0601" alt="@rohith0601's Holopin badges" /> -->
+  <!-- </a> -->
+<!-- </p> -->
 
 ---
 
