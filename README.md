@@ -1,4 +1,5 @@
-[![An image of @Rohith's Holopin badges](https://holopin.me/rohith0601)](https://holopin.io/@rohith0601#badges)
+[![@rohith0601’s Holopin board](https://holopin.io/api/user/board?user=rohith0601)](https://holopin.io/@rohith0601)
+
 
 <h1 align="center">Hi 👋, I'm Rohith Perugu</h1>
 
