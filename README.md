@@ -1,3 +1,5 @@
+[![An image of @Rohith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohith0601)](https://holopin.io/@rohith0601)
+
 <h1 align="center">Hi 👋, I'm Rohith Perugu</h1>
 
 <h3 align="center">A passionate 2nd-year Engineering Science student at IIT Hyderabad. Aspiring full-stack web developer and AI enthusiast.</h3>
