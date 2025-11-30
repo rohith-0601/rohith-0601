@@ -60,7 +60,6 @@
 - 👨‍💻 **Connect** → https://github.com/rohith-0601/Connect  
 - 👨‍💻 **We-Meet** → https://github.com/rohith-0601/We-Meet  
 - 👨‍💻 **WanderLust (Airbnb Clone)** → https://github.com/rohith-0601/WanderLust  
-- 👨‍💻 **Intel Product Page** → https://github.com/komalsathvik/intel-hackathon  
 - 👨‍💻 **Email Sender Automation** → https://github.com/rohith-0601/email-sender-project  
 - 👨‍💻 **LinkedIn Job Automation** → https://github.com/rohith-0601/job-application-automation  
 
