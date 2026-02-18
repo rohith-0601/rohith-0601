@@ -71,7 +71,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohith-0601&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📈 Stats  
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601)](https://github.com/rohith-0601/github-readme-stats))
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohith-0601&show_icons=true)
 
 ### 🏆 Top Languages  
 ![Top Langs](https://github-readme-stats-six-black.vercel.app/api/top-langs/?username=rohith-0601&layout=compact&theme=tokyonight&hide_border=true)
