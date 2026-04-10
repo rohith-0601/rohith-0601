@@ -75,11 +75,11 @@
 
 ### 📈 Stats
 
-[![Rohith's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohith-0601&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohith's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rohith-0601&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohith-0601&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohith-0601&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ### 📦 Summary Cards
 
