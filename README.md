@@ -75,7 +75,7 @@
 
 ### 📈 Stats
 
-[![Rohith's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rohith-0601&show_icons=true&theme=tokyonight&hide_border=true?count_private=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+![GitHub Stats](https://github-readme-stats-gilt-beta-78.vercel.app/api?username=rohith-0601&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 
 ### 🏆 Top Languages
 
